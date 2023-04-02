@@ -7,7 +7,7 @@ Eu sou o <strong>thethoomm</strong>, esse é o meu perfil no GitHub, onde compar
 ## Sobre mim
 Eu sou um(a) desenvolvedor(a) com experiência em [insira aqui suas áreas de experiência]. Eu amo aprender coisas novas e experimentar tecnologias emergentes. Atualmente, estou focado em [insira aqui seus projetos atuais ou áreas de interesse].
 
-## .Projetos
+## Projetos
 Aqui estão alguns dos meus projetos mais recentes no GitHub:
 
 <strong>GithubBrowser</strong> (https://github.com/thethoomm/githubbrowser) - Um pesquisador de usuários do github, por meio da própria API disponibilizada por eles. <br>
