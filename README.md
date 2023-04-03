@@ -11,7 +11,7 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
-<img align="right" height="800cm" src="https://raw.githubusercontent.com/gist/thethoomm/0b40c9032f2453f1a1dd2ff191fa8e6e/raw/8d37f4fc306160e73662f77dedf3740138addb53/githubcard.svg">
+<img align="top right" height="800cm" src="https://raw.githubusercontent.com/gist/thethoomm/0b40c9032f2453f1a1dd2ff191fa8e6e/raw/8d37f4fc306160e73662f77dedf3740138addb53/githubcard.svg">
 
 <!--   - 🔥 Estudante do IFSP Campinas
   - 🛰 Atualmente estudando Kotlin e ReactJS
