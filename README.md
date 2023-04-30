@@ -11,7 +11,8 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
-<img align="top right" width="1020cm" margin="0cm" src="https://gist.github.com/thethoomm/6264d940e15697e4a3e4dc6187d27615.js">
+
+<img align="top right" width="1020cm" margin="0cm" src="https://raw.githubusercontent.com/gist/thethoomm/6264d940e15697e4a3e4dc6187d27615/raw/3650db2530d8ff31ea93a8d8aa8c5e78b72465a8/header.svg">
 
 
 <!--   - 🔥 Estudante do IFSP Campinas
