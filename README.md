@@ -2,7 +2,7 @@
 
 ### 🧠 Skills
 - [`Golang`](https://go.dev/)
-- [`Typescript`](https://www.typescriptlang.org/)
+- [`Typescript/Javascript`](https://www.typescriptlang.org/)
 - [`MySQL`](https://www.mysql.com/)
 
 ### 📒 Studying
