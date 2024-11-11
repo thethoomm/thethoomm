@@ -1,6 +1,6 @@
 # Hello, I'm thethoomm!
 
-## Development projects online!
+### Projects in development already online!
   - [`Learnverse`](https://learnverse.vercel.app)
 
 ### 🧠 Skills
