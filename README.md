@@ -1,15 +1,12 @@
 # Hello, I'm thethoomm!
 
+## Development projects online!
+  - [`Learnverse`](https://learnverse.vercel.app)
+
 ### 🧠 Skills
 - [`Golang`](https://go.dev/)
 - [`Typescript/Javascript`](https://www.typescriptlang.org/)
-- [`MySQL`](https://www.mysql.com/)
-
-### 📒 Studying
-- [Spring](https://spring.io/)
-- [ReactJS](https://react.dev/)
-- [React Native](https://reactnative.dev/)
-- [MongoDB](https://www.mongodb.com/)
+- [`SQL`](https://www.mysql.com/)
 
 ### ⚙️ GitHub Analytics
 
