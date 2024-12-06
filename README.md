@@ -1,46 +1,26 @@
-# Hello, I'm thethoomm!
 
-### Projects in development already online!
-  - [`Learnverse`](https://learnverse.vercel.app)
+<h1>Hi There! 👋</h1>
 
-### 🧠 Skills
-- [`Golang`](https://go.dev/)
-- [`Typescript/Javascript`](https://www.typescriptlang.org/)
-- [`SQL`](https://www.mysql.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thom-henrique/)](https://www.linkedin.com/in/thom-henrique/)
+[![Gmail Badge](https://img.shields.io/badge/-thomas.santos02209@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.santos02209@gmail.com)](mailto:thomas.santos02209@gmail.com)
 
-### ⚙️ GitHub Analytics
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=thethoomm&theme=dark&hide_border=true&include_all_commits=true"
-  alt="Github Stats"
-/>
 
---- 
+### Hey there! I'm Thomas Henrique  
+💻 Full-stack enthusiast | 🚀 Tech Innovator  
 
-### 🏆 GitHub Profile Trophy
+**Technologies I Love:**  
+(Node.js | NestJS | Go | PHP | React.js | TypeScript | JavaScript | HTML | CSS)  
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=thethoomm&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+**About Me:**  
+🎓 IT technician student  
+🌐 Passionate about crafting digital experiences  
+💡 Driven by Challenges 
 
----
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thethoomm&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/thethoomm/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
