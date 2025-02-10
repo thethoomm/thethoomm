@@ -7,7 +7,8 @@
 
 
 ### Hey there! I'm Thomas Henrique  
-💻 Full-stack enthusiast | 🚀 Tech Innovator  
+💻 Full-stack enthusiast | 🚀 Tech Innovator
+Trainee at @compassuol
 
 **Technologies I Love:**  
 (Node.js | NestJS | Go | PHP | React.js | TypeScript | JavaScript | HTML | CSS)  
