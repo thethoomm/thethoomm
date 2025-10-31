@@ -10,7 +10,7 @@
 💻 Full-stack Trainee Developer at CompassUOL
 
 **Technologies I Love:**  
-(Node.js | NestJS | Go | PHP | React.js | TypeScript | JavaScript | HTML | CSS)  
+( NestJS | Go | Next.js )  
 
 **About Me:**  
 🎓 IT technician student  
